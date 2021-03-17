@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051198461004",
+    "project_id": "app2-5dae3",
+    "storage_bucket": "app2-5dae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051198461004:android:4bf7c10b7f19efeb1590e9",
+        "android_client_info": {
+          "package_name": "com.girildo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051198461004-alt3r8veul4rc69he91ggvk6off7dg89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4p0ah0qHWMPHsjHDigMlPUOYQc2L-5bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051198461004-alt3r8veul4rc69he91ggvk6off7dg89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
